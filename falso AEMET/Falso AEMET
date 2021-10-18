@@ -1,0 +1,15 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<title>FALSO AEMET</title>
+</head>
+<body>
+<form method="GET" action="http://www.aemet.es/es/buscador">
+
+Intoduzca su busqueda:
+<input type="text" name="str">
+<input type="submit" value="ENVIAR">
+</form>
+
+</body>
+</html> 
