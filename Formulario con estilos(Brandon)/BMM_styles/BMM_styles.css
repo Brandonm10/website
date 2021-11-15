@@ -1,0 +1,15 @@
+div{
+    width: 300px;
+    padding: 20px;
+    border-top: 2px solid darkblue;
+    border-bottom: 2px solid darkblue;
+    background-color: lightblue;  
+}
+input:focus{
+    background-color: yellow;
+}
+input{
+    padding: 5px 10px ;
+}
+label{
+    padding: 5px;
