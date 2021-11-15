@@ -1,0 +1,17 @@
+div{
+  width: 600px;
+  height: 350px;
+  border: 3px solid darkblue;
+  border-radius: 8px;
+  padding: 40px;
+  margin:10px;
+  background-image: url("../images/image1.jpg");
+  background-repeat: no-repeat;
+}
+div:hover{
+  background-image: url("../images/image2.jpg");
+  background-repeat: no-repeat;
+}
+h1{
+  color: white;
+}
