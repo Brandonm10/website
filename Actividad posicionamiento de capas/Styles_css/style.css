@@ -1,0 +1,25 @@
+p{
+    position: absolute;
+    top: 2px;
+    padding-top: 20px;
+    border: 2px solid darkblue;
+    background-color: #65FEFE;
+    width: 90px;
+    height: 75px;
+    margin: 5px;
+}
+.d1>p{
+   left: 0px;
+}
+#d1>p{
+    left: 125px;
+}
+.d2>p{
+    left: 250px;
+ }
+ #d2>p{
+     left: 375px;
+ }
+ .d3>p{
+    left: 500px;
+}
