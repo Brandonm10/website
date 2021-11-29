@@ -1,0 +1,36 @@
+div p{
+    position: absolute;
+    top: 100px;
+    padding-top: 4px;
+    padding-left: 4px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: white;
+    width: 100px;
+    height: 125px;
+    margin: 145px;
+}
+.icono{
+    color: red;
+}
+.A>p{
+   left: 0px;
+   z-index: 0;
+   transform: rotate(-45deg);
+}
+.J>p{
+    left: 125px;
+    transform: rotate(-30deg);
+}
+.Q>p{
+    left: 250px;
+    transform: rotate(-20deg);
+ }
+.K>p{
+     left: 375px;
+     transform: rotate(-5deg);
+ }
+.C10>p{
+    left: 500px;
+    transform: rotate(10deg);
+}
