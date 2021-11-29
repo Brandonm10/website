@@ -1,0 +1,22 @@
+body{
+	background-color: orange;
+}
+div{
+	height: 50px;
+	border: 3px solid blue;
+	border-radius: 8px;
+	background-color: lightskyblue;
+	transition: 0.3s;
+	text-align: center;
+	z-index: 1;
+}
+.rotate:hover{
+	transform: rotate(90deg);
+}
+.scale:hover{
+	transform: scaleY(2);
+}
+.translate:hover{
+	transform: translate(0px,50px);
+}
+
