@@ -1,0 +1,45 @@
+body{
+    background-color: green;
+}
+#treboles3{
+    top: 20px;
+    left: 200px;
+
+}
+#corazones4{
+    
+}
+.carta{
+    position: absolute;
+    height: 200px;
+    width: 100px;
+    background-color: rgb(230,230,230);
+    border-radius: 10px;
+    border: black 2px solid;
+}
+.numeropalo{
+    font-size: 20px;
+}
+.numeropalo_invertido{
+    transform: rotate(180deg);
+    position: absolute;
+    bottom: 0px;
+    right:0px;
+}
+.figura{
+    position: absolute;
+    font-size: 30px;
+
+}
+#treboles3_1{
+    left: 35px;
+}
+#treboles3_2{
+    left: 35px;
+    top: 85px;
+}
+#treboles3_3{
+    left: 35px;
+    top: 120px;
+    transform: rotate(180deg);
+}
