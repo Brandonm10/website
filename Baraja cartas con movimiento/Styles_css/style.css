@@ -1,0 +1,135 @@
+body{
+    background-color: green;
+}
+.carta{
+    position: absolute;
+    height: 200px;
+    width: 130px;
+    background-color: rgb(230,230,230);
+    border-radius: 10px;
+    border: black 2px solid;
+}
+.numeropalo{
+    font-size: 25px;
+}
+.numeropalo_invertido{
+    transform: rotate(180deg);
+    position: absolute;
+    bottom: 0px;
+    right:0px;
+}
+
+
+#A{
+
+}
+.figura_1{
+    position: absolute;
+    font-size: 80px;
+
+}
+#A_1{
+    left: 25px;
+}
+
+
+#treboles7{
+
+}
+.figura_2{
+    position: absolute;
+    font-size: 40px;
+
+}
+#treboles7_1{
+    left: 22px;
+    top: 15px;
+}
+#treboles7_2{
+    left: 66px;
+    top: 15px;
+}
+#treboles7_3{
+    left: 44px;
+    top: 50px;
+}
+#treboles7_4{
+    left: 22px;
+    top: 85px;
+}
+#treboles7_5{
+    left: 66px;
+    top: 85px;
+}
+#treboles7_6{
+    left: 22px;
+    top: 130px;
+    transform: rotate(180deg);
+}
+#treboles7_7{
+    left: 66px;
+    top: 130px;
+    transform: rotate(180deg);
+}
+
+
+#corazones6{
+    color: red;
+}
+.figura_3{
+    position: absolute;
+    font-size: 45px;
+}
+#corazones6_1{
+    left: 22px;
+    top: 15px;
+}
+#corazones6_2{
+    left: 66px;
+    top: 15px;
+}
+#corazones6_3{
+    left: 22px;
+    top: 72px;
+}
+#corazones6_4{
+    left: 66px;
+    top: 72px;
+}
+#corazones6_5{
+    left: 22px;
+    top: 125px;
+    transform: rotate(180deg);
+}
+#corazones6_6{
+    left: 66px;
+    top: 125px;
+    transform: rotate(180deg);
+}
+
+
+#picas4{
+    
+}
+.figura_4{
+    position: absolute;
+    font-size: 45px;
+}
+#picas4_1{
+    left: 20px;
+    top: 15px;
+}
+#picas4_2{
+    left: 70px;
+    top: 15px;
+}
+#picas4_3{
+    left: 20px;
+    top: 125px;
+    transform: rotate(180deg);
+}
+#picas4_4{
+    left: 70px;
+    top: 125px;
+    transform: rotate(180deg);
+}
