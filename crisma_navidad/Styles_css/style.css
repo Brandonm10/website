@@ -1,0 +1,31 @@
+body{
+    background-image: url("../images/fondo1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.carta{
+    position: absolute;
+    height: 85%;
+    width: 40%;
+    background-color: rgb(190, 8, 8);
+    border: white 3px solid;
+
+}
+#izq{
+    left: 35%;
+    top: 10%;
+}
+
+
+.texto{
+    font-size: 25px;
+    left:20%;
+    top: 0%;
+
+}
+.texto_1{
+    color:white;
+    font-family: 'Imperial Script', 'Mea Culpa',cursive;
+
+
+}
